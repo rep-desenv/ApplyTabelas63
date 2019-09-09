@@ -1,0 +1,73 @@
+C:\Documents and Settings\Administrador\Desktop\DevOps\Apply de Tabelas\SBL63\ApplyTabelas63\ApplyTabelas63\bin\Debug\ApplyTabelas63.exe
+C:\Documents and Settings\Administrador\Desktop\DevOps\Apply de Tabelas\SBL63\ApplyTabelas63\ApplyTabelas63\bin\Debug\ApplyTabelas63.pdb
+C:\Documents and Settings\Administrador\Desktop\DevOps\Apply de Tabelas\SBL63\ApplyTabelas63\ApplyTabelas63\bin\Debug\ApplyTabelas63.xml
+C:\Documents and Settings\Administrador\Desktop\DevOps\Apply de Tabelas\SBL63\ApplyTabelas63\ApplyTabelas63\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\Administrador\Desktop\DevOps\Apply de Tabelas\SBL63\ApplyTabelas63\ApplyTabelas63\obj\x86\Debug\ApplyTabelas63.Resources.resources
+C:\Documents and Settings\Administrador\Desktop\DevOps\Apply de Tabelas\SBL63\ApplyTabelas63\ApplyTabelas63\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Documents and Settings\Administrador\Desktop\DevOps\Apply de Tabelas\SBL63\ApplyTabelas63\ApplyTabelas63\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Documents and Settings\Administrador\Desktop\DevOps\Apply de Tabelas\SBL63\ApplyTabelas63\ApplyTabelas63\obj\x86\Debug\ApplyTabelas63.exe
+C:\Documents and Settings\Administrador\Desktop\DevOps\Apply de Tabelas\SBL63\ApplyTabelas63\ApplyTabelas63\obj\x86\Debug\ApplyTabelas63.xml
+C:\Documents and Settings\Administrador\Desktop\DevOps\Apply de Tabelas\SBL63\ApplyTabelas63\ApplyTabelas63\obj\x86\Debug\ApplyTabelas63.pdb
+C:\Documents and Settings\Administrador\Desktop\SBL63\SBL63\ApplyTabelas63\ApplyTabelas63\obj\x86\Debug\ApplyTabelas63.xml
+C:\Documents and Settings\Administrador\Desktop\SBL63\SBL63\ApplyTabelas63\ApplyTabelas63\obj\x86\Debug\ApplyTabelas63.pdb
+C:\Documents and Settings\Administrador\Desktop\SBL63\SBL63\ApplyTabelas63\ApplyTabelas63\bin\Debug\ApplyTabelas63.exe
+C:\Documents and Settings\Administrador\Desktop\SBL63\SBL63\ApplyTabelas63\ApplyTabelas63\bin\Debug\ApplyTabelas63.pdb
+C:\Documents and Settings\Administrador\Desktop\SBL63\SBL63\ApplyTabelas63\ApplyTabelas63\bin\Debug\ApplyTabelas63.xml
+C:\Documents and Settings\Administrador\Desktop\SBL63\SBL63\ApplyTabelas63\ApplyTabelas63\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\Administrador\Desktop\SBL63\SBL63\ApplyTabelas63\ApplyTabelas63\obj\x86\Debug\ApplyTabelas63.Resources.resources
+C:\Documents and Settings\Administrador\Desktop\SBL63\SBL63\ApplyTabelas63\ApplyTabelas63\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Documents and Settings\Administrador\Desktop\SBL63\SBL63\ApplyTabelas63\ApplyTabelas63\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Documents and Settings\Administrador\Desktop\SBL63\SBL63\ApplyTabelas63\ApplyTabelas63\obj\x86\Debug\ApplyTabelas63.exe
+C:\Documents and Settings\Administrador\Desktop\SBL63_Vr1.1\SBL63\SBL63\ApplyTabelas63\ApplyTabelas63\obj\x86\Debug\ApplyTabelas63.exe
+C:\Documents and Settings\Administrador\Desktop\SBL63_Vr1.1\SBL63\SBL63\ApplyTabelas63\ApplyTabelas63\obj\x86\Debug\ApplyTabelas63.xml
+C:\Documents and Settings\Administrador\Desktop\SBL63_Vr1.1\SBL63\SBL63\ApplyTabelas63\ApplyTabelas63\obj\x86\Debug\ApplyTabelas63.pdb
+C:\Documents and Settings\Administrador\Desktop\SBL63_Vr1.1\SBL63\SBL63\ApplyTabelas63\ApplyTabelas63\bin\Debug\ApplyTabelas63.exe
+C:\Documents and Settings\Administrador\Desktop\SBL63_Vr1.1\SBL63\SBL63\ApplyTabelas63\ApplyTabelas63\bin\Debug\ApplyTabelas63.pdb
+C:\Documents and Settings\Administrador\Desktop\SBL63_Vr1.1\SBL63\SBL63\ApplyTabelas63\ApplyTabelas63\bin\Debug\ApplyTabelas63.xml
+C:\Documents and Settings\Administrador\Desktop\SBL63_Vr1.1\SBL63\SBL63\ApplyTabelas63\ApplyTabelas63\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\Administrador\Desktop\SBL63_Vr1.1\SBL63\SBL63\ApplyTabelas63\ApplyTabelas63\obj\x86\Debug\ApplyTabelas63.Resources.resources
+C:\Documents and Settings\Administrador\Desktop\SBL63_Vr1.1\SBL63\SBL63\ApplyTabelas63\ApplyTabelas63\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Documents and Settings\Administrador\Desktop\SBL63_Vr1.1\SBL63\SBL63\ApplyTabelas63\ApplyTabelas63\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Documents and Settings\Administrador\Desktop\DevOps\Apply de Tabelas\SBL63_Vr1.2\SBL63\SBL63\ApplyTabelas63\ApplyTabelas63\obj\x86\Debug\ApplyTabelas63.exe
+C:\Documents and Settings\Administrador\Desktop\DevOps\Apply de Tabelas\SBL63_Vr1.2\SBL63\SBL63\ApplyTabelas63\ApplyTabelas63\obj\x86\Debug\ApplyTabelas63.xml
+C:\Documents and Settings\Administrador\Desktop\DevOps\Apply de Tabelas\SBL63_Vr1.2\SBL63\SBL63\ApplyTabelas63\ApplyTabelas63\obj\x86\Debug\ApplyTabelas63.pdb
+C:\Documents and Settings\Administrador\Desktop\DevOps\Apply de Tabelas\SBL63_Vr1.2\SBL63\SBL63\ApplyTabelas63\ApplyTabelas63\bin\Debug\ApplyTabelas63.exe
+C:\Documents and Settings\Administrador\Desktop\DevOps\Apply de Tabelas\SBL63_Vr1.2\SBL63\SBL63\ApplyTabelas63\ApplyTabelas63\bin\Debug\ApplyTabelas63.pdb
+C:\Documents and Settings\Administrador\Desktop\DevOps\Apply de Tabelas\SBL63_Vr1.2\SBL63\SBL63\ApplyTabelas63\ApplyTabelas63\bin\Debug\ApplyTabelas63.xml
+C:\Documents and Settings\Administrador\Desktop\DevOps\Apply de Tabelas\SBL63_Vr1.2\SBL63\SBL63\ApplyTabelas63\ApplyTabelas63\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\Administrador\Desktop\DevOps\Apply de Tabelas\SBL63_Vr1.2\SBL63\SBL63\ApplyTabelas63\ApplyTabelas63\obj\x86\Debug\ApplyTabelas63.Resources.resources
+C:\Documents and Settings\Administrador\Desktop\DevOps\Apply de Tabelas\SBL63_Vr1.2\SBL63\SBL63\ApplyTabelas63\ApplyTabelas63\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Documents and Settings\Administrador\Desktop\DevOps\Apply de Tabelas\SBL63_Vr1.2\SBL63\SBL63\ApplyTabelas63\ApplyTabelas63\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Documents and Settings\Administrador\Desktop\SBL63_Vr1.3\SBL63_Vr1.3\SBL63\SBL63\ApplyTabelas63\ApplyTabelas63\obj\x86\Debug\ApplyTabelas63.exe
+C:\Documents and Settings\Administrador\Desktop\SBL63_Vr1.3\SBL63_Vr1.3\SBL63\SBL63\ApplyTabelas63\ApplyTabelas63\obj\x86\Debug\ApplyTabelas63.xml
+C:\Documents and Settings\Administrador\Desktop\SBL63_Vr1.3\SBL63_Vr1.3\SBL63\SBL63\ApplyTabelas63\ApplyTabelas63\obj\x86\Debug\ApplyTabelas63.pdb
+C:\Documents and Settings\Administrador\Desktop\SBL63_Vr1.3\SBL63_Vr1.3\SBL63\SBL63\ApplyTabelas63\ApplyTabelas63\bin\Debug\ApplyTabelas63.exe
+C:\Documents and Settings\Administrador\Desktop\SBL63_Vr1.3\SBL63_Vr1.3\SBL63\SBL63\ApplyTabelas63\ApplyTabelas63\bin\Debug\ApplyTabelas63.pdb
+C:\Documents and Settings\Administrador\Desktop\SBL63_Vr1.3\SBL63_Vr1.3\SBL63\SBL63\ApplyTabelas63\ApplyTabelas63\bin\Debug\ApplyTabelas63.xml
+C:\Documents and Settings\Administrador\Desktop\SBL63_Vr1.3\SBL63_Vr1.3\SBL63\SBL63\ApplyTabelas63\ApplyTabelas63\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\Administrador\Desktop\SBL63_Vr1.3\SBL63_Vr1.3\SBL63\SBL63\ApplyTabelas63\ApplyTabelas63\obj\x86\Debug\ApplyTabelas63.Resources.resources
+C:\Documents and Settings\Administrador\Desktop\SBL63_Vr1.3\SBL63_Vr1.3\SBL63\SBL63\ApplyTabelas63\ApplyTabelas63\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Documents and Settings\Administrador\Desktop\SBL63_Vr1.3\SBL63_Vr1.3\SBL63\SBL63\ApplyTabelas63\ApplyTabelas63\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Documents and Settings\Administrador\Desktop\SBL63_Vr1.3\SBL63_Vr1.3\SBL63\SBL63\ApplyTabelas63\ApplyTabelas63\bin\Debug\ApplyTabelas63.exe.config
+C:\Documents and Settings\Administrador\Desktop\APPLY SBL63\SBL63\SBL63\SBL63\ApplyTabelas63\ApplyTabelas63\bin\Debug\ApplyTabelas63.exe.config
+C:\Documents and Settings\Administrador\Desktop\APPLY SBL63\SBL63\SBL63\SBL63\ApplyTabelas63\ApplyTabelas63\obj\x86\Debug\ApplyTabelas63.exe
+C:\Documents and Settings\Administrador\Desktop\APPLY SBL63\SBL63\SBL63\SBL63\ApplyTabelas63\ApplyTabelas63\obj\x86\Debug\ApplyTabelas63.xml
+C:\Documents and Settings\Administrador\Desktop\APPLY SBL63\SBL63\SBL63\SBL63\ApplyTabelas63\ApplyTabelas63\obj\x86\Debug\ApplyTabelas63.pdb
+C:\Documents and Settings\Administrador\Desktop\APPLY SBL63\SBL63\SBL63\SBL63\ApplyTabelas63\ApplyTabelas63\bin\Debug\ApplyTabelas63.exe
+C:\Documents and Settings\Administrador\Desktop\APPLY SBL63\SBL63\SBL63\SBL63\ApplyTabelas63\ApplyTabelas63\bin\Debug\ApplyTabelas63.pdb
+C:\Documents and Settings\Administrador\Desktop\APPLY SBL63\SBL63\SBL63\SBL63\ApplyTabelas63\ApplyTabelas63\bin\Debug\ApplyTabelas63.xml
+C:\Documents and Settings\Administrador\Desktop\APPLY SBL63\SBL63\SBL63\SBL63\ApplyTabelas63\ApplyTabelas63\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\Administrador\Desktop\APPLY SBL63\SBL63\SBL63\SBL63\ApplyTabelas63\ApplyTabelas63\obj\x86\Debug\ApplyTabelas63.Resources.resources
+C:\Documents and Settings\Administrador\Desktop\APPLY SBL63\SBL63\SBL63\SBL63\ApplyTabelas63\ApplyTabelas63\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Documents and Settings\Administrador\Desktop\APPLY SBL63\SBL63\SBL63\SBL63\ApplyTabelas63\ApplyTabelas63\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Projetos\APPLY SBL63\SBL63\SBL63\SBL63\ApplyTabelas63\ApplyTabelas63\bin\Debug\ApplyTabelas63.exe.config
+C:\Projetos\APPLY SBL63\SBL63\SBL63\SBL63\ApplyTabelas63\ApplyTabelas63\obj\x86\Debug\ApplyTabelas63.exe
+C:\Projetos\APPLY SBL63\SBL63\SBL63\SBL63\ApplyTabelas63\ApplyTabelas63\obj\x86\Debug\ApplyTabelas63.xml
+C:\Projetos\APPLY SBL63\SBL63\SBL63\SBL63\ApplyTabelas63\ApplyTabelas63\obj\x86\Debug\ApplyTabelas63.pdb
+C:\Projetos\APPLY SBL63\SBL63\SBL63\SBL63\ApplyTabelas63\ApplyTabelas63\bin\Debug\ApplyTabelas63.exe
+C:\Projetos\APPLY SBL63\SBL63\SBL63\SBL63\ApplyTabelas63\ApplyTabelas63\bin\Debug\ApplyTabelas63.pdb
+C:\Projetos\APPLY SBL63\SBL63\SBL63\SBL63\ApplyTabelas63\ApplyTabelas63\bin\Debug\ApplyTabelas63.xml
+C:\Projetos\APPLY SBL63\SBL63\SBL63\SBL63\ApplyTabelas63\ApplyTabelas63\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Projetos\APPLY SBL63\SBL63\SBL63\SBL63\ApplyTabelas63\ApplyTabelas63\obj\x86\Debug\ApplyTabelas63.Resources.resources
+C:\Projetos\APPLY SBL63\SBL63\SBL63\SBL63\ApplyTabelas63\ApplyTabelas63\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Projetos\APPLY SBL63\SBL63\SBL63\SBL63\ApplyTabelas63\ApplyTabelas63\obj\x86\Debug\GenerateResource.write.1.tlog
