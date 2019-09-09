@@ -1,0 +1,3 @@
+C:\Projetos\Apply Tabelas 63 Servico de Mensageria\ApplyTableDevOps\obj\x86\Debug\ApplyTableDevOps63Pass.exe
+C:\Projetos\Apply Tabelas 63 Servico de Mensageria\ApplyTableDevOps\obj\x86\Debug\ApplyTableDevOps63Pass.xml
+C:\Projetos\Apply Tabelas 63 Servico de Mensageria\ApplyTableDevOps\obj\x86\Debug\ApplyTableDevOps63Pass.pdb

@@ -1,0 +1,10 @@
+C:\ApplyTableDevOps63Pass.exe
+C:\ApplyTableDevOps63Pass.pdb
+C:\ApplyTableDevOps63Pass.xml
+C:\Projetos\ApplyTableDevOps63Password\ApplyTableDevOps63Password\ApplyTableDevOps\obj\x86\Debug\ApplyTableDevOps63Pass.exe
+C:\Projetos\ApplyTableDevOps63Password\ApplyTableDevOps63Password\ApplyTableDevOps\obj\x86\Debug\ApplyTableDevOps63Pass.xml
+C:\Projetos\ApplyTableDevOps63Password\ApplyTableDevOps63Password\ApplyTableDevOps\obj\x86\Debug\ApplyTableDevOps63Pass.pdb
+C:\Projetos\ApplyTableDevOps63Password\ApplyTableDevOps63Password\ApplyTableDevOps\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Projetos\ApplyTableDevOps63Password\ApplyTableDevOps63Password\ApplyTableDevOps\obj\x86\Debug\ApplyTableDevOps.Resources.resources
+C:\Projetos\ApplyTableDevOps63Password\ApplyTableDevOps63Password\ApplyTableDevOps\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Projetos\ApplyTableDevOps63Password\ApplyTableDevOps63Password\ApplyTableDevOps\obj\x86\Debug\GenerateResource.write.1.tlog
