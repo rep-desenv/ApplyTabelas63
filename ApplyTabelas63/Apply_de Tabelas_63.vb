@@ -195,31 +195,31 @@ Module Apply_de_Tabelas
 
             Console.WriteLine("Check Point: Recebendo parâmetros de execução.")
 
-            'sToolsExe = args(0)
-            'sCFG = args(1)
-            'sUser = Trim$(args(2))
-            'sPassword = Trim$(args(3))
-            'sDirImp = Trim$(args(4))
-            'sDirLog = Trim$(args(5))
-            'sDataSource = Trim$(args(6))
-            ''sODBC = Trim$(args(6))
-            ''sPassword_Schema = Trim$(args(7))
+            sToolsExe = args(0)
+            sCFG = args(1)
+            sUser = Trim$(args(2))
+            sPassword = Trim$(args(3))
+            sDirImp = Trim$(args(4))
+            sDirLog = Trim$(args(5))
+            sDataSource = Trim$(args(6))
+            'sODBC = Trim$(args(6))
             'sPassword_Schema = Trim$(args(7))
+            sPassword_Schema = Trim$(args(7))
 
             Console.WriteLine("Check Point: Recebendo parâmetros de execução => OK")
 
-            sToolsExe = "C:\sea630\tools\BIN\siebdev.exe"
-            'sCFG = "c:\sea630\tools\bin\tools_B10.cfg"
-            sCFG = "c:\sea630\tools\bin\tools_local.cfg"
-            'sUser = "RPERES"
-            sUser = "E_CARVALHO"
-            'sPassword = "trv3keay"
-            sPassword = "E_CARVALHO"
-            sDirImp = "C:\Temp\imp"
-            'sDataSource = "SERVER"
-            sDataSource = "Server"
-            'sPassword_Schema = "siebel"
-            sPassword_Schema = "E_CARVALHO"
+            'sToolsExe = "C:\sea630\tools\BIN\siebdev.exe"
+            ''sCFG = "c:\sea630\tools\bin\tools_B10.cfg"
+            'sCFG = "c:\sea630\tools\bin\tools_local.cfg"
+            ''sUser = "RPERES"
+            'sUser = "E_CARVALHO"
+            ''sPassword = "trv3keay"
+            'sPassword = "E_CARVALHO"
+            'sDirImp = "C:\Temp\imp"
+            ''sDataSource = "SERVER"
+            'sDataSource = "Server"
+            ''sPassword_Schema = "siebel"
+            'sPassword_Schema = "E_CARVALHO"
 
             'sDirLog = System.AppDomain.CurrentDomain.BaseDirectory
 
